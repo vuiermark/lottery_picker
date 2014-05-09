@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = LotteryPicker::VERSION
   spec.authors       = ["Mark Rybarczyk"]
   spec.email         = ["stealthmark@gmail.com"]
-  spec.summary       = %q{Auto generate 5 random lottery numbers}
-  spec.description   = %q{Use this gem to generate 5 random lottery numbers between 1 and 59, for use in Powerball and other lotteries.}
+  spec.summary       = %q{Auto generate 6 random lottery numbers}
+  spec.description   = %q{Use this gem to generate 6 random lottery numbers between 1 and 59, for use in Powerball and other lotteries.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

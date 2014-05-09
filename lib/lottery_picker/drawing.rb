@@ -1,7 +1,8 @@
 module LotteryPicker
 	class Drawing
 		def draw
-			5.times.map { single_draw }
+			# This value used to be 5
+			6.times.map { single_draw }
 		end
 
 		private
