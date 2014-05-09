@@ -1,6 +1,6 @@
 # LotteryPicker
 
-TODO: Write a gem description
+A Ruby gem to generate lottery drawings.
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ruby
+LotteryPicker::Drawing.new.draw # => [23 ,2 ,12, 4, 3]
 
 ## Contributing
 
